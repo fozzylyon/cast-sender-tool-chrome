@@ -17,7 +17,7 @@ This Google Cast Sender Tool application illustrates basic interaction with the 
 ## Project Setup
 * Install NodeJS (http://nodejs.org/) for your platform
 * In the root of this project execute
-* $> npm install express
+* $> npm install
 * $> node s3.js
 * Receiver will be available on http://IP-Address:7777/web_sender_tool.html
 

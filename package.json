@@ -1,0 +1,34 @@
+{
+  "name": "cast-sender-tool-chrome",
+  "version": "0.0.0",
+  "description": "This Google Cast Sender Tool application illustrates basic interaction with the Google Cast Chrome SDK. It is useful for testing Google Cast Receiver applications as the user can launch any receiver for which they have registered Cast devices and know the Application ID of the receiver they wish to launch. This sender application has been constructed to work with the cast-custom-receiver-sample in conjunction with the cast-support-media-server project.",
+  "main": "s3.js",
+  "dependencies": {
+    "express": "~3.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/googlecast/cast-sender-tool-chrome.git"
+  },
+  "keywords": [
+    "google",
+    "cast",
+    "chromecast",
+    "sample"
+  ],
+  "author": "Krispy Uccello",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/googlecast/cast-sender-tool-chrome/issues"
+  },
+  "homepage": "https://github.com/googlecast/cast-sender-tool-chrome"
+}
